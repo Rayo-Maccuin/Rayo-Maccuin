@@ -1,5 +1,9 @@
 ## Hi I´m Rayo Maccuin 👋
 
+##GitHub Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rayo-Maccuin&theme=tokyonight&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
+
 <!--
 **Rayo-Maccuin/Rayo-Maccuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
