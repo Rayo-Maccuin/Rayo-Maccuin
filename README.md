@@ -1,7 +1,6 @@
 ## Hi I´m Rayo Maccuin 👋
 
-###GitHub Stats 
-
+GitHub Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rayo-Maccuin&theme=tokyonight&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
 
 <!--
