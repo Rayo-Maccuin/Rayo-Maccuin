@@ -1,7 +1,5 @@
 ## Hi I´m Rayo Maccuin 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayo-Maccuin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rayo-Maccuin&theme=tokyonight&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
-##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayo-Maccuin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Rayo-Maccuin/Rayo-Maccuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
